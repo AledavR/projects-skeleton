@@ -1,0 +1,4 @@
+* Projects-Skeleton
+
+This is a repository of my project skeletons to use with the skeletor emacs'
+package.
